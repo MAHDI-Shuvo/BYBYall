@@ -102,7 +102,7 @@ def reg():
     except (KeyError, IOError):
         reg2()
 
-    r = requests.get('https://raw.githubusercontent.com/MAHDI-Shuvo/new/main/mahdi.text').text
+    r = requests.get('https://raw.githubusercontent.com/MAHDI-Shuvo/maprove/main/j.text').text
     if to in r:
         notice()
     else:
