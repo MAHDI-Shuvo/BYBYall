@@ -3,7 +3,29 @@
 # Decompiled from: Python 2.7.18 (default, Aug  8 2021, 22:51:48) 
 # [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
 # Embedded file name: romi
-import requests, bs4, sys, os, uuid, subprocess, sys, random, time, re, base64, json, requests, bs4, sys, os, uuid, subprocess, sys, random, time, re, base64, json
+import requests
+import bs4 
+import sys
+import os
+import uuid
+import subprocess
+import sysimport
+import random
+import time
+import re
+import base64
+import json
+import requests
+import bs4
+import sys
+import os
+import uuid
+import sys
+import random
+import time
+import re
+import base64
+import json
 from multiprocessing.pool import ThreadPool
 from datetime import datetime
 from time import sleep
